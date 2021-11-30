@@ -101,3 +101,39 @@ font-weight:600;
 .educational-content small{
    color: #888;
 }
+.control-margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.form-control{
+    height: 40px;
+    padding: 0 20px !important;
+    font-size: 17px !important;
+    border: 2px solid #ccc !important;
+    border-radius: 0 !important;
+}
+.btn{
+    
+    padding: 15px !important;
+    font-size: 17px !important;
+    font-weight:bold;
+    border-radius: 0 !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+
+}
+.footer{
+    padding: 30px 50px;
+}
+.footer .footer-section{
+    font-size: 15px;
+    color: #777;
+}
+.footer .footer-section .copyright-text{
+    font-weight: 400;
+    display: block;
+}
+.background-grey{
+    background: #f9f9f9;
+}
